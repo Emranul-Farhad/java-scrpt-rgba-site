@@ -1,0 +1,16 @@
+.texts{
+    font-weight:  700;
+    text-align: center;
+}
+
+.button{
+    padding:  10px 10px;
+    color: rgb(0, 0, 0);
+    background-color: aqua;
+    margin: 0 auto;
+    display: block;
+}
+
+.main {
+    margin-top: 100px;
+}
